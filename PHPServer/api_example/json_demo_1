@@ -1,0 +1,100 @@
+[
+// way 1
+[
+"distance": 20000,
+"duration": 25,
+"instruction":
+[
+    [
+    	"type": 1,
+    	"beginType": 1 (user-begin-point),
+    	"endType": 2 (station),
+    	"beginCoord": ["Lat": 10.768116, "Lng": 106.688573],
+    	"endCoord": ["Lat": 10.767676, "Lng": 106.689362],
+    	"duration": 12 (mins),
+    	"distance": 200 (m)
+    ]	
+
+    [
+    	"type": 2
+    	"routes": [
+    		// type = 1: station point | type = 2: path point
+    		["Lat": 0, "Lng": 0, "type": 1], 
+    		["Lat": 0, "Lng": 0, "type": 1], 
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1]
+    	]
+    	"color": "#41ba34",
+    	"busnum": "18",
+    	"duration" : 30 (mins),
+    	"distance" : 10000 (m)
+    ]
+
+    [
+    	"type": 1,
+    	"beginType": 2 (station),
+    	"endType": 3 (user-end-point),
+    	"beginCoord": ["Lat": 10.0000, "Lng": 160.111],
+    	"endCoord": ["Lat": 10.999, "Lng": 160.999],
+    	"duration": 9 (mins),
+    	"distance": 150 (m)
+    ]
+]
+  
+]
+
+
+// way 2
+[
+"distance": 20000,
+"duration": 25,
+"instruction":
+[
+    [
+    	"type": 1,
+    	"beginType": 1 (user-begin-point),
+    	"endType": 2 (station),
+    	"beginCoord": ["Lat": 10.768116, "Lng": 106.688573],
+    	"endCoord": ["Lat": 10.767676, "Lng": 106.689362],
+    	"duration": 12 (mins),
+    	"distance": 200 (m)
+    ]	
+
+    [
+    	"type": 2
+    	"routes": [
+    		// type = 1: station point | type = 2: path point
+    		["Lat": 0, "Lng": 0, "type": 1], 
+    		["Lat": 0, "Lng": 0, "type": 1], 
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1],
+    		["Lat": 0, "Lng": 0, "type": 1]
+    	]
+    	"color": "#41ba34",
+    	"busnum": "18",
+    	"duration" : 30 (mins),
+    	"distance" : 10000 (m)
+    ]
+
+    [
+    	"type": 1,
+    	"beginType": 2 (station),
+    	"endType": 3 (user-end-point),
+    	"beginCoord": ["Lat": 10.0000, "Lng": 160.111],
+    	"endCoord": ["Lat": 10.999, "Lng": 160.999],
+    	"duration": 9 (mins),
+    	"distance": 150 (m)
+    ]
+]
+  
+]
+
+
+]

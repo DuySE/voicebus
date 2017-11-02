@@ -1,0 +1,244 @@
+[
+  {
+    "distance": 1350,
+    "duration": 50,
+    "totalBus": 1,
+    "listBus": "18",
+    "instruction": [
+      {
+        "type": 1,
+        "beginType": 1,
+        "endType": 2,
+        "beginCoord": {
+          "Lat": 10.768116,
+          "Lng": 106.688573,
+          "name": "FPT University"
+        },
+        "endCoord": {
+          "Lat": 10.767676,
+          "Lng": 106.689362,
+          "name": "Station 1"
+        },
+        "duration": 12,
+        "distance": 200
+      },
+      {
+        "type": 2,
+        "routes": [
+          {
+            "type": 1,
+            "Lat": 10.767676,
+            "Lng": 106.689362,
+            "name": "Station 1"
+          },
+          {
+            "type": 1,
+            "Lat": 10.76767,
+            "Lng": 106.690941,
+            "name": "Station 2"
+          },
+          {
+            "type": 2,
+            "Lat": 10.76767635,
+            "Lng": 106.68936157,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76718521,
+            "Lng": 106.68955994,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76766968,
+            "Lng": 106.69094086,
+            "name": ""
+          },
+          {
+            "type": 1,
+            "Lat": 10.768788,
+            "Lng": 106.693699,
+            "name": "Station 3"
+          }
+        ],
+        "color": "#41ba34",
+        "busnum": 18,
+        "duration": 30,
+        "distance": 10000
+      },
+      {
+        "type": 1,
+        "beginType": 2,
+        "endType": 3,
+        "beginCoord": {
+          "Lat": 10.768788,
+          "Lng": 106.693699,
+          "name": "Station 3"
+        },
+        "endCoord": {
+          "Lat": 10.769217,
+          "Lng": 106.693837,
+          "name": "My Home"
+        },
+        "duration": 9,
+        "distance": 150
+      }
+    ]
+  },
+
+  {
+    "distance": 1350,
+    "duration": 50,
+    "totalBus": 2,
+    "listBus": "18, 55",
+    "instruction": [
+      {
+        "type": 1,
+        "beginType": 1,
+        "endType": 2,
+        "beginCoord": {
+          "Lat": 10.768116,
+          "Lng": 106.688573,
+          "name": "FPT University"
+        },
+        "endCoord": {
+          "Lat": 10.767676,
+          "Lng": 106.689362,
+          "name": "Station 1"
+        },
+        "duration": 12,
+        "distance": 200
+      },
+      {
+        "type": 2,
+        "routes": [
+          {
+            "type": 1,
+            "Lat": 10.767676,
+            "Lng": 106.689362,
+            "name": "Station 1"
+          },
+          {
+            "type": 1,
+            "Lat": 10.76767,
+            "Lng": 106.690941,
+            "name": "Station 2"
+          },
+          {
+            "type": 2,
+            "Lat": 10.76767635,
+            "Lng": 106.68936157,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76718521,
+            "Lng": 106.68955994,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76766968,
+            "Lng": 106.69094086,
+            "name": ""
+          },
+          {
+            "type": 1,
+            "Lat": 10.768788,
+            "Lng": 106.693699,
+            "name": "Station 3"
+          }
+        ],
+        "color": "#41ba34",
+        "busnum": 18,
+        "duration": 30,
+        "distance": 10000
+      },
+      {
+        "type": 3,
+        "beginCoord": {
+          "Lat": 10.768788,
+          "Lng": 106.693699,
+          "name": "Station 3"
+        },
+        "endCoord": {
+          "Lat": 10.768788,
+          "Lng": 106.693699,
+          "name": "Station 3"
+        },
+        "duration": 0,
+        "distance": 0
+      }
+      ,
+       {
+        "type": 2,
+        "routes": [
+          {
+            "type": 1,
+            "Lat": 10.768788,
+            "Lng": 106.693699,
+            "name": "Station 3"
+          },
+          { 
+            "type": 2,
+            "Lat": 10.76766968,
+            "Lng": 106.69094086,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76772308,
+            "Lng": 106.69089508,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76718521,
+            "Lng": 106.68955994,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76882458,
+            "Lng": 106.69366455,
+            "name": ""
+          },
+          {
+            "type": 2,
+            "Lat": 10.76878834,
+            "Lng": 106.69370270,
+            "name": "Station 3"
+          },
+          {
+            "type": 1,
+            "Lat": 10.769504,
+            "Lng": 106.695587,
+            "name": "Station 4"
+          }
+        ],
+        "color": "#f45942",
+        "busnum": 55,
+        "duration": 33,
+        "distance": 20000
+      },
+      {
+        "type": 1,
+        "beginType": 2,
+        "endType": 3,
+        "beginCoord": {
+          "Lat": 10.769504,
+          "Lng": 106.695587,
+          "name": "Station 4"
+        },
+        "endCoord": {
+          "Lat": 10.770937,
+          "Lng": 106.697164,
+          "name": "My Home"
+        },
+        "duration": 9,
+        "distance": 150
+      }
+    ]
+  }
+]

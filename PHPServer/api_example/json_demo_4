@@ -1,0 +1,40 @@
+{
+   "type": 1,
+   "mess": "Tìm trạm gần nhất"
+}
+
+{
+   "type": 2,
+   "mess": "Tìm những trạm gần đây"
+}
+
+{
+   "type": 3,
+   "busnum": 18,
+   "mess": "Tìm trạm có xe gần nhất"
+}
+
+{
+   "type": 4,
+   "busnum": 18,
+   "mess": "Tìm những trạm có xe gần đây"
+}
+
+
+{
+  "type": 5,
+  "begin": "FPT University",
+  "end": "Cho Ben Thanh",
+   "mess": "Tìm cách đi giữa hai trạm"
+}
+
+{
+   "type": 6,
+   "end": "Cho Ben Thanh",
+   "mess": "Tìm cách đi từ vị trí hiện tại đến trạm"
+}
+
+{
+   "type": 7,
+   "mess": "Xin lỗi, hệ thống không thể hiểu yêu cầu của bạn"
+}
